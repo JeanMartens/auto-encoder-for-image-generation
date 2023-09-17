@@ -5,6 +5,7 @@ This is what this can get you:
 
 
 ![](plots/efficientnet_b0.png)
+![](plots/resnet50.png)
 
 Feel free to use this repo for anything you like but since this is a project simply to build my intuition for VAE and GANs, I advise you code it yourself for the same purpose.
 If you like the structure of the code, you can find my Computer Vision baseline here: 
